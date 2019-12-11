@@ -14,5 +14,8 @@
     "ref_altitude": 150,
     "contact_email": "sean.smith@comapps.net",
     "description": "A Rak831 Gateway connected to a Raspberry Pi 3. Located inside."
+    "fake_gps": false,
+    "gps": true,
+    "gps_tty_path": "/dev/ttyS0"
   }
 }
